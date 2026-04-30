@@ -1,0 +1,12 @@
+{
+  "commit": "89dd3f9718193c8db9405137f5f1b50add12d779",
+  "short": "89dd3f971819",
+  "builtAt": "2026-04-30T16:10:18Z",
+  "files": {
+    "js": "robin.js",
+    "wasm": "robin_bg.wasm"
+  },
+  "sha256": {
+    "wasm": "e59749a1a0d6947794ff5827c003c3bf772e33ee0af4bcb558ae9e192bd0a186"
+  }
+}
