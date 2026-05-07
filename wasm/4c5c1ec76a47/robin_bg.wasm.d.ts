@@ -1,0 +1,38 @@
+/* tslint:disable */
+/* eslint-disable */
+export const memory: WebAssembly.Memory;
+export const wasm_boot: (a: number, b: number) => [number, number];
+export const wasm_preload_asset: (a: number, b: number, c: number, d: number) => void;
+export const wasm_start: () => void;
+export const main: (a: number, b: number) => number;
+export const rh_rpc_enqueue: (a: number, b: number, c: number) => void;
+export const rust_zstd_wasm_shim_calloc: (a: number, b: number) => number;
+export const rust_zstd_wasm_shim_free: (a: number) => void;
+export const rust_zstd_wasm_shim_malloc: (a: number) => number;
+export const rust_zstd_wasm_shim_memcmp: (a: number, b: number, c: number) => number;
+export const rust_zstd_wasm_shim_memcpy: (a: number, b: number, c: number) => number;
+export const rust_zstd_wasm_shim_memmove: (a: number, b: number, c: number) => number;
+export const rust_zstd_wasm_shim_memset: (a: number, b: number, c: number) => number;
+export const rust_zstd_wasm_shim_qsort: (a: number, b: number, c: number, d: number) => void;
+export const __wasm_bindgen_func_elem_3698: (a: number, b: number, c: any) => [number, number];
+export const __wasm_bindgen_func_elem_3746: (a: number, b: number, c: any, d: any) => void;
+export const __wasm_bindgen_func_elem_11185: (a: number, b: number, c: any) => void;
+export const __wasm_bindgen_func_elem_11185_3: (a: number, b: number, c: any) => void;
+export const __wasm_bindgen_func_elem_11185_4: (a: number, b: number, c: any) => void;
+export const __wasm_bindgen_func_elem_11185_5: (a: number, b: number, c: any) => void;
+export const __wasm_bindgen_func_elem_11185_6: (a: number, b: number, c: any) => void;
+export const __wasm_bindgen_func_elem_11185_7: (a: number, b: number, c: any) => void;
+export const __wasm_bindgen_func_elem_11185_8: (a: number, b: number, c: any) => void;
+export const __wasm_bindgen_func_elem_11185_9: (a: number, b: number, c: any) => void;
+export const __wasm_bindgen_func_elem_11185_10: (a: number, b: number, c: any) => void;
+export const __wasm_bindgen_func_elem_11185_11: (a: number, b: number, c: any) => void;
+export const __wasm_bindgen_func_elem_3134: (a: number, b: number) => void;
+export const __wbindgen_export: (a: number, b: number) => number;
+export const __wbindgen_export2: (a: number, b: number, c: number, d: number) => number;
+export const __wbindgen_export3: () => number;
+export const __wbindgen_externrefs: WebAssembly.Table;
+export const __wbindgen_export4: (a: number) => void;
+export const __wbindgen_export5: (a: number, b: number, c: number) => void;
+export const __wbindgen_export6: (a: number, b: number) => void;
+export const __wbindgen_export7: (a: number) => void;
+export const __wbindgen_start: () => void;
